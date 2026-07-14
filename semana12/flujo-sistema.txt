@@ -1,0 +1,6 @@
+Funcionamiento sistema Petición en 3 Clics:
+1. Un ciudadano ingresa a la plataforma y registra una nueva petición comunitaria.
+2. El sistema valida la información y la almacena en la base de datos.
+3. La petición queda publicada para que otros ciudadanos puedan consultarla.
+4. Los usuarios interesados apoyan la petición y el sistema actualiza automáticamente el número de apoyos.
+5. Cuando la petición cumple las condiciones establecidas, el sistema genera un documento con la información recopilada para continuar el proceso correspondiente.

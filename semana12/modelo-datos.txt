@@ -1,0 +1,22 @@
+Entidad: Petición
+
+Campos principales:
+- id
+- titulo
+- objetivo
+- estado
+- fecha_registro
+
+Propósito:
+Guardar la información de cada petición creada por la comunidad para realizar su seguimiento y conocer su estado.
+
+Entidad: Participación
+
+Campos principales:
+- id
+- peticion_id
+- tipo_apoyo
+- fecha_participacion
+
+Propósito:
+Registrar las participaciones realizadas por los ciudadanos en cada petición y llevar un control de la actividad sin almacenar información personal innecesaria.
